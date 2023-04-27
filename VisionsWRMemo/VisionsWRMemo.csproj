@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>ARC ICON_256_256.ico</PackageIcon>
+    <ApplicationIcon>Resources\ARC ICON_256_256.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VisionsWRMemo.Core\VisionsWRMemo.Core.fsproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\ARC ICON_256_256.ico" />
+  </ItemGroup>
+
+</Project>

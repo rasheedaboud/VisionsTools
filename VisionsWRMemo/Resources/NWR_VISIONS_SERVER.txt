@@ -1,0 +1,6 @@
+server:nwsvsnappd2.nwu.local
+sire:NWRP
+
+
+Test Server: NWSVSNAPTS2.nwu.local
+Test Site: NWR

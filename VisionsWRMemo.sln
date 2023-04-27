@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionsWRMemo", "VisionsWRMemo\VisionsWRMemo.csproj", "{0BA4C990-63E9-4A18-A6CE-7D32F08EDEC1}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "VisionsWRMemo.Core", "VisionsWRMemo.Core\VisionsWRMemo.Core.fsproj", "{A3FBB0B7-9DBB-4773-9803-58F10C682F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA4C990-63E9-4A18-A6CE-7D32F08EDEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA4C990-63E9-4A18-A6CE-7D32F08EDEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA4C990-63E9-4A18-A6CE-7D32F08EDEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA4C990-63E9-4A18-A6CE-7D32F08EDEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FBB0B7-9DBB-4773-9803-58F10C682F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FBB0B7-9DBB-4773-9803-58F10C682F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FBB0B7-9DBB-4773-9803-58F10C682F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FBB0B7-9DBB-4773-9803-58F10C682F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8C054E-6CBD-4ED0-9910-36390C8A3815}
+	EndGlobalSection
+EndGlobal
